@@ -28,4 +28,3 @@ while True:
         value = value + 1
         lcd.print(str(value))
 lcd.set_cursor_mode(CursorMode.LINE)
-
