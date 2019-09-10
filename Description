@@ -1,0 +1,7 @@
+Blink.py: Had and LED light blink based on the time set.
+
+Fade.py: Had a LED light fade based on the time set.
+
+LCD.py: Wired up and LCD screen to Metro and had it diplay the amount of times a button was clicked.
+
+serrvoTouch.py: Wired up a servo to a Metro and had it rotate direction depending on what wire was touched.
