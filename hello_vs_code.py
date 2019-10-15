@@ -2,5 +2,4 @@ import time
 
 while True:
     print ("Hello")
-    time.sleep (1.5)
-    
+    time.sleep (1.0)
