@@ -1,2 +1,2 @@
-# circuitPython
-## LED Fade
+# CircuitPython
+## LED Blink
