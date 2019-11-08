@@ -19,6 +19,37 @@ During this task I learned the basics of the program language Mu. I also learned
 
 ### Lessons
 
+## CircuitPython LCD
+
+### Objective
+
+### Pictures
+
+### Lessons
+
+## CircuitPython Photointerrupters
+
+### Objective
+
+### Pictures
+
+### Lessons
+
+## CircuitPython Distance Sensor
+
+### Objective
+
+### Pictures
+
+### Lessons
+
+## CircuitPython Classes Objects and Modules
+
+### Objective
+
+### Pictures
+
+### Lessons
 
 
 
