@@ -12,7 +12,7 @@ During this task I learned the basics of the program language Mu. I also learned
 
 
 ## CircuitPython Servo
-
+The objective of this task is to learn how to move a servo 180 degrees clockwise and counter clockwise using a Metro Board Mu as the programming language.
 ### Objective
 
 ### Pictures
@@ -20,7 +20,7 @@ During this task I learned the basics of the program language Mu. I also learned
 ### Lessons
 
 ## CircuitPython LCD
-
+The objective of this task is to learn 
 ### Objective
 
 ### Pictures
@@ -28,7 +28,7 @@ During this task I learned the basics of the program language Mu. I also learned
 ### Lessons
 
 ## CircuitPython Photointerrupters
-
+The objective of this task is to learn 
 ### Objective
 
 ### Pictures
@@ -36,7 +36,7 @@ During this task I learned the basics of the program language Mu. I also learned
 ### Lessons
 
 ## CircuitPython Distance Sensor
-
+The objective of this task is to 
 ### Objective
 
 ### Pictures
@@ -44,7 +44,7 @@ During this task I learned the basics of the program language Mu. I also learned
 ### Lessons
 
 ## CircuitPython RGB LED
-
+The objective of this task is to learn 
 ### Objective
 
 ### Pictures
