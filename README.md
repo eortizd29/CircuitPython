@@ -8,7 +8,4 @@ The objective of this task is to learn about this new programming language calle
 <img src="media/led_fade_schem.png" width="392px"/><img src="media/led_fade_bb.png" width="300px" />
 
 ### Lessons
-
-#### PWM
-
-#### Analog Out
+During this task I learned the basics of the program language Mu. I also learned about how the Metro board works and it's differnces compared to arduino. 
