@@ -43,7 +43,7 @@ During this task I learned the basics of the program language Mu. I also learned
 
 ### Lessons
 
-## CircuitPython Classes Objects and Modules
+## CircuitPython RGB LED
 
 ### Objective
 
