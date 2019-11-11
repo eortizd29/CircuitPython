@@ -12,7 +12,7 @@ During this task I learned the basics of the program language Mu. I also learned
 
 
 
-## Servo
+## CircuitPython Servo
 [[]]
 ### Objective
 
@@ -27,7 +27,7 @@ went from one end of the servo to the other.
 ### Lessons
 
 
-## LCD Screen and botton
+## CircuitPython LCD Screen and botton
 [[]]
 ### Objective
 
@@ -44,7 +44,7 @@ trying to do it without an excessive use of time.sleep
 This assignmetn taught me how to use the LCD to count up and how to wire a button to it to do so. I also taught me to desgin a code which counted up on click instead of on delay which was helpful and interesting. 
 
 
-## Photo Interupter
+## CircuitPython Photo Interupter
 [[]]
 ### Objective
 
@@ -60,7 +60,7 @@ numbers.
 In the end I learned that I need to pay more attention to the corralation of my wiring to my coding to make sure everything is lined up correctly with each other, because in the assignments, one mistake can screw up the entire assignment. 
 
 
-## Ultrasonic Sensor
+## CircuitPython Ultrasonic Sensor
 [[]]
 ### Objective
 
@@ -76,7 +76,7 @@ the too like, blu, teal, purple, etc.
 In this assignment I learned that using a flat surface is the best way to minimize the ultrasonic sensor glitches, also I need to be smarter about the delays I use. 
 
 
-## Fancy RGB LED
+## CircuitPython Fancy RGB LED
 [[]]
 ### Objective
 
