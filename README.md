@@ -15,12 +15,7 @@ During this task I learned the basics of the program language Mu. I also learned
 ## CircuitPython Servo
 [[]]
 ### Objective
-
-The next assignment I did was a servo assignment.
-I basically just made a servo turn by touching 2
-different wires which made it go in either
-direction, I set it to 180 degrees which ment it
-went from one end of the servo to the other.
+The objective of this task is to learn how to move a servo 180 degrees clockwise and counter clockwise by the touch of two wires each one controlling a different direction. Complete this by using a Metro Board Mu as the programming language.
 
 ### Pictures
 
