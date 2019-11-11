@@ -91,45 +91,8 @@ getting the leds to work)
 ### Lessons
 I learned to use 3v instead of 5v to get better color definition. Also I learned how to wire and use an RGB LED and get the colors to work properly. 
 
-## CircuitPython Servo
-The objective of this task is to learn how to move a servo 180 degrees clockwise and counter clockwise using a Metro Board Mu as the programming language.
-### Objective
 
-### Pictures
 
-### Lessons
-
-## CircuitPython LCD
-The objective of this task is to learn 
-### Objective
-
-### Pictures
-
-### Lessons
-
-## CircuitPython Photointerrupters
-The objective of this task is to learn 
-### Objective
-
-### Pictures
-
-### Lessons
-
-## CircuitPython Distance Sensor
-The objective of this task is to 
-### Objective
-
-### Pictures
-
-### Lessons
-
-## CircuitPython RGB LED
-The objective of this task is to learn 
-### Objective
-
-### Pictures
-
-### Lessons
 
 
 
