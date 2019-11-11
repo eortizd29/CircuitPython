@@ -13,17 +13,16 @@ During this task I learned the basics of the program language Mu. I also learned
 
 
 ## CircuitPython Servo
-[[]]
 ### Objective
-The objective of this task is to learn how to move a servo 180 degrees clockwise and counter clockwise by the touch of two wires each one controlling a different direction. Complete this by using a Metro Board Mu as the programming language.
+The objective of this task is to learn how to move a servo 180 degrees clockwise and counter clockwise by the touch of two wires each one controlling a different direction. Complete this by using a Metro Board and Mu as the programming language.
 
 ### Pictures
 
 ### Lessons
 
 
+
 ## CircuitPython LCD Screen and botton
-[[]]
 ### Objective
 
 The last assignment I did was I hooked up a button
@@ -34,13 +33,11 @@ trying to do it without an excessive use of time.sleep
 
 ### Pictures
 
-
 ### Lessons
 This assignmetn taught me how to use the LCD to count up and how to wire a button to it to do so. I also taught me to desgin a code which counted up on click instead of on delay which was helpful and interesting. 
 
 
 ## CircuitPython Photo Interupter
-[[]]
 ### Objective
 
 In this assignment I used a photo interupter to print the
@@ -50,13 +47,12 @@ numbers.
 
 ### Pictures
 
-
 ### Lessons
 In the end I learned that I need to pay more attention to the corralation of my wiring to my coding to make sure everything is lined up correctly with each other, because in the assignments, one mistake can screw up the entire assignment. 
 
 
+
 ## CircuitPython Ultrasonic Sensor
-[[]]
 ### Objective
 
 In this assignment we used an ultrasonic sensor in orde
@@ -66,13 +62,12 @@ the too like, blu, teal, purple, etc.
 
 ### Pictures
 
-
 ### Lessons
 In this assignment I learned that using a flat surface is the best way to minimize the ultrasonic sensor glitches, also I need to be smarter about the delays I use. 
 
 
+
 ## CircuitPython Fancy RGB LED
-[[]]
 ### Objective
 
 The purpose of this assigment was to use 2 rgb leds and 
