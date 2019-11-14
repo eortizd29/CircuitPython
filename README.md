@@ -38,7 +38,6 @@ trying to do it without an excessive use of time.sleep
 
 ### Pictures
 
-<img src="media/metroboardLCD.jpg" width="300px" />
 
 ### Lessons
 This assignmetn taught me how to use the LCD to count up and how to wire a button to it to do so. I also taught me to desgin a code which counted up on click instead of on delay which was helpful and interesting. 
@@ -53,6 +52,10 @@ difficult to not get it to just print out random interupt
 numbers.
 
 ### Pictures
+
+<img src="https://github.com/tweissm35/CircuitPython/blob/master/media/photointerrupter.jpg" width="350">
+
+[Picture credits go to Tim](https://github.com/tweissm35/CircuitPython/blob/master/media/photointerrupter.jpg)
 
 ### Lessons
 In the end I learned that I need to pay more attention to the corralation of my wiring to my coding to make sure everything is lined up correctly with each other, because in the assignments, one mistake can screw up the entire assignment. 
