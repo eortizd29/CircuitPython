@@ -20,7 +20,7 @@ The objective of this task is to learn how to move a servo 180 degrees clockwise
 ![wiringpicture](https://user-images.githubusercontent.com/54993981/68686792-2e39bf80-053a-11ea-9003-1802b85f8b44.PNG)
 
 ### Lessons
-
+The
 
 
 ## CircuitPython LCD Screen and botton
