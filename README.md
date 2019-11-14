@@ -72,6 +72,11 @@ the too like, blu, teal, purple, etc.
 
 ### Pictures
 
+<img src="https://github.com/tweissm35/CircuitPython/blob/master/media/ultrasonicsensor.jpg" width="350">
+
+[Picture credits go to Tim](https://github.com/tweissm35/CircuitPython/blob/master/media/ultrasonicsensor.jpg)
+
+
 ### Lessons
 In this assignment I learned that using a flat surface is the best way to minimize the ultrasonic sensor glitches, also I need to be smarter about the delays I use. 
 
