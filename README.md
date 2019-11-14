@@ -8,7 +8,7 @@ The objective of this task is to learn about this new programming language calle
 ![circuitpython_01_digital_io_figure_1](https://user-images.githubusercontent.com/54993981/68688544-e8322b00-053c-11ea-9dc8-f1a2ed58d18d.png)
 
 ### Lessons
-During this task I learned the basics of the program language Mu. I also learned about how the Metro board works and it's differnces compared to arduino. 
+During this task I learned the basics of the program language Mu. I also learned about how the Metro board works and it's differences compared to arduino. 
 
 
 
