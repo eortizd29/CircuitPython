@@ -93,6 +93,8 @@ getting the leds to work)
 
 ### Pictures
 
+<img src= "media/FancyLED.png" width="300"> 
+
 ### Lessons
 I learned to use 3v instead of 5v to get better color definition. Also I learned how to wire and use an RGB LED and get the colors to work properly. 
 
