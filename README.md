@@ -7,6 +7,8 @@ The objective of this task is to learn about this new programming language calle
 
 ![circuitpython_01_digital_io_figure_1](https://user-images.githubusercontent.com/54993981/68688544-e8322b00-053c-11ea-9dc8-f1a2ed58d18d.png)
 
+[Credit goes to this adafruit guide I found](https://learn.adafruit.com/circuitpython-digital-inputs-and-outputs/digital-outputs)
+
 ### Lessons
 During this task I learned the basics of the program language Mu. I also learned about how the Metro board works and it's differences compared to arduino. 
 
@@ -18,7 +20,7 @@ The objective of this task is to learn how to move a servo 180 degrees clockwise
 
 ### Pictures
 ![wiringpicture](https://user-images.githubusercontent.com/54993981/68686792-2e39bf80-053a-11ea-9003-1802b85f8b44.PNG)
-
+[Credit goes to this adafruit guide I found](https://github.com/ayahya70/CircuitPython)
 ### Lessons
 The
 
