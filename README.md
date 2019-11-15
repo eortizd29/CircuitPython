@@ -5,6 +5,7 @@ For this assignment you will be needing a LED light, some wires, a resistor, a b
 
 ### Pictures
 ![circuitpython_01_digital_io_figure_1](https://user-images.githubusercontent.com/54993981/68688544-e8322b00-053c-11ea-9dc8-f1a2ed58d18d.png)
+
 [Credit goes to this adafruit guide I found](https://learn.adafruit.com/circuitpython-digital-inputs-and-outputs/digital-outputs)
 
 ### Lessons
