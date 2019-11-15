@@ -20,6 +20,7 @@ For this assignment you won't be needing a bread board but will be needing a ser
 
 ### Pictures
 ![wiringpicture](https://user-images.githubusercontent.com/54993981/68686792-2e39bf80-053a-11ea-9003-1802b85f8b44.PNG)
+
 [Picture credits go to Abdellatif](https://github.com/ayahya70/CircuitPython)
 
 ### Lessons
@@ -47,10 +48,11 @@ For this assignment you are only going to need a photo intterupter, some wires, 
 
 ### Pictures
 <img src="https://github.com/tweissm35/CircuitPython/blob/master/media/photointerrupter.jpg" width="350">
+
 [Picture credits go to Tim](https://github.com/tweissm35/CircuitPython/blob/master/media/photointerrupter.jpg)
 
 ### Lessons
-This assignment wasn't that difficult but it gave me insight to the the importance of my codes variables. To be more specific I learned about time.time and how the lower the variable is the faster it is to notice how many time the phtointeruppter was interupted. I also got to experiment with the commands that detemined how long the code ran for. Just a side note it was really impressive how many times it was able to detect the times it ws interrupted.
+This assignment wasn't that difficult but it gave me insight to the the importance of my codes variables. To be more specific I learned about time.time and how the lower the variable is the faster it is to notice how many time the phtointeruppter was interupted. I also got to experiment with the commands that detemined how long the code ran for. Just a side note it was really impressive how many times it was able to detect the times it was interrupted.
 
 
 
@@ -60,6 +62,7 @@ This assignment wasn't that difficult but it gave me insight to the the importan
 
 ### Pictures
 <img src="https://github.com/tweissm35/CircuitPython/blob/master/media/ultrasonicsensor.jpg" width="350">
+
 [Picture credits go to Tim](https://github.com/tweissm35/CircuitPython/blob/master/media/ultrasonicsensor.jpg)
 
 ### Lessons
