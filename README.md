@@ -38,6 +38,9 @@ trying to do it without an excessive use of time.sleep
 
 ### Pictures
 
+<img src="media/metroboardLCD.jpg" width="300px" />
+
+* __Ignore the potentionmeter...__
 
 ### Lessons
 This assignmetn taught me how to use the LCD to count up and how to wire a button to it to do so. I also taught me to desgin a code which counted up on click instead of on delay which was helpful and interesting. 
