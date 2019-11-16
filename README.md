@@ -59,6 +59,7 @@ This assignment wasn't that difficult but it gave me insight to the the importan
 
 ## CircuitPython Ultrasonic Sensor
 ### Objective
+For this assignment you are going to need an ultrasonic sensor, some wires, some resistors, a bread board, and a metro. The objective of this assignment is to write code that can tell the distnace between sensor and another object. To add on, the code is going to have to change the color of the metro board light based on the distance from the sensor and the object.
 
 ### Pictures
 <img src="https://github.com/tweissm35/CircuitPython/blob/master/media/ultrasonicsensor.jpg" width="350">
@@ -66,28 +67,37 @@ This assignment wasn't that difficult but it gave me insight to the the importan
 [Picture credits go to Tim](https://github.com/tweissm35/CircuitPython/blob/master/media/ultrasonicsensor.jpg)
 
 ### Lessons
-In this assignment I learned that using a flat surface is the best way to minimize the ultrasonic sensor glitches, also I need to be smarter about the delays I use. 
+This was by far the most difficult assignment I have had to complete. The most difficult part was writing the statements that changed the colors based on the distance. I had trouble sorting the variables so they wouldn't overead by each other but have smooth transitions that were clear. This assignment taught me how to further assign and declare variables and also the importance of it.
 
 
 
 
 ## CircuitPython Fancy RGB LED
 ### Objective
-The purpose of this assigment was to use 2 rgb leds and 
-display all the colors of the rainbow in order, and then 
-create a color shift rainbow sequence with the same led 
-the previous colors are displayed. (Hardest part is 
-getting the leds to work)
+For this assignment you will be needing a 2 RGB Led's, some wires, some resistors, a metro, and a bread board. The objective of this assignment is for you to write code for the LED's to display 6 different colors in the rainbow in a set sequence.
 
 ### Pictures
 <img src= "media/FancyLED.png" width="300"> 
 
+Credit to Lily
+
 ### Lessons
-I learned to use 3v instead of 5v to get better color definition. Also I learned how to wire and use an RGB LED and get the colors to work properly. 
+Like the Ultrasonic Sensor, this assignment was more difficult than the rest bringing up new challenges in my code. Like the Sensor, I was going to have to display different colors bringing back up the issue of assigning variables but this time it was different due to the fact I was working with more colors. WHat really got the best of me was the end of the code which was the rainbow section that took me a while to understand.
 
 
 
+## Fancy LED
+### Objective
+For this assignment you will be needing 6 LED's, resistors, wires, a metro, and a bread board. This assignment is similar to the Fancy RGB LED assignment. You are going to have to make 6 LED's light up in a certain sequences but unlike the RGB these LED's can only produce one color which makes it different since you have to declare variables for all 6 LED's.
 
+### Pictures
+
+<img src="media/FancyLED.png" width="300px" />
+
+Credit to lucas 
+
+### Lessons
+Like the past 3 assignments, this one was also difficult because it intorduced me to new sequences for LED's. I had trouble with the fact that now I didn't have to make the LED fade but also switch, alternate, flash ect. 
 
 
 
