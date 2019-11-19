@@ -8,7 +8,7 @@ For this assignment you will be needing a LED light, some wires, a resistor, a b
 
 [Credit goes to this adafruit guide I found](https://learn.adafruit.com/circuitpython-digital-inputs-and-outputs/digital-outputs)
 
-### Lessons
+### Lessons Learned
 I completed this project by writing code that allowed for the LED to fade most importantly using import time and import board. This assignement was bringing back the basics of code and wiring. During this task I learned the basics of the program language Mu. I also learned about how the Metro board works and it's differences compared to arduino. 
 
 
