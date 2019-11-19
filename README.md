@@ -1,10 +1,11 @@
 # CircuitPython
-## Hello CircuitPython (Metro and Mu)
+## [Hello CircuitPython (Metro and Mu)](Fade.py)
+
 ### Objective
 For this assignment you will be needing a LED light, some wires, a resistor, a bread board, and a metro. The objective of this task is to learn about this new programming language called CircuitPython. There is a new board called Metro that looks like the arduino but is different. What your going to try to do is make and LED fade in and out using the new programming language and board.
 
 ### Pictures
-![circuitpython_01_digital_io_figure_1](https://user-images.githubusercontent.com/54993981/68688544-e8322b00-053c-11ea-9dc8-f1a2ed58d18d.png)
+<img src="media/HelloCircuitPython.PNG" width="300px" />
 
 [Credit goes to this adafruit guide I found](https://learn.adafruit.com/circuitpython-digital-inputs-and-outputs/digital-outputs)
 
@@ -14,12 +15,12 @@ I completed this project by writing code that allowed for the LED to fade most i
 
 
 
-## CircuitPython Servo
+## [CircuitPython Servo](servoTouch.py)
 ### Objective
 For this assignment you won't be needing a bread board but will be needing a servo, some wires, and a metro. The objective of this task is to learn how to move a servo 180 degrees clockwise and counter clockwise by the touch of two wires each one controlling a different direction. Complete this by using a Metro Board and Mu as the programming language.
 
 ### Pictures
-![wiringpicture](https://user-images.githubusercontent.com/54993981/68686792-2e39bf80-053a-11ea-9003-1802b85f8b44.PNG)
+<img src="media/CircuitPythonServo.PNG" width="300px" />
 
 [Picture credits go to Abdellatif](https://github.com/ayahya70/CircuitPython)
 
@@ -29,12 +30,12 @@ I completed this project by adding new code to the already existing code from mo
 
 
 
-## CircuitPython LCD Screen and botton
+## CircuitPython LCD Screen and Button
 ### Objective
 For this assignment you will be needing an LCD screen, a button, and some wires apart from the bread board and metro. The objective of this task is for you to have the LCD screen display the amount of times you have clicked the button. 
 
 ### Pictures
-<img src="media/metroboardLCD.jpg" width="300px" />
+<img src="media/lcdcount.jpg" width="300px" />
 
 ### Lessons
 No very important new code was added to this learning experience. This assignment helped me better understand For and While loops and their eifficiency and simplicity it also gave me more experience with if statements and how to use them with physical actions such as touching a button. 
@@ -47,7 +48,7 @@ No very important new code was added to this learning experience. This assignmen
 For this assignment you are only going to need a photo intterupter, some wires, and to make it even better you won't be needing a bread board. The objective of this task is for you to learn how to write code that counts everytime the photointeruppter is interupted by an object.
 
 ### Pictures
-<img src="https://github.com/tweissm35/CircuitPython/blob/master/media/photointerrupter.jpg" width="350">
+<img src="media/photointerrupter.jpg" width="300">
 
 [Picture credits go to Tim](https://github.com/tweissm35/CircuitPython/blob/master/media/photointerrupter.jpg)
 
@@ -62,7 +63,7 @@ This assignment wasn't that difficult but it gave me insight to the the importan
 For this assignment you are going to need an ultrasonic sensor, some wires, some resistors, a bread board, and a metro. The objective of this assignment is to write code that can tell the distnace between sensor and another object. To add on, the code is going to have to change the color of the metro board light based on the distance from the sensor and the object.
 
 ### Pictures
-<img src="https://github.com/tweissm35/CircuitPython/blob/master/media/ultrasonicsensor.jpg" width="350">
+<img src="media/ultrasonicsensor.jpg" width="300">
 
 [Picture credits go to Tim](https://github.com/tweissm35/CircuitPython/blob/master/media/ultrasonicsensor.jpg)
 
@@ -77,7 +78,7 @@ This was by far the most difficult assignment I have had to complete. The most d
 For this assignment you will be needing a 2 RGB Led's, some wires, some resistors, a metro, and a bread board. The objective of this assignment is for you to write code for the LED's to display 6 different colors in the rainbow in a set sequence.
 
 ### Pictures
-<img src= "media/FancyLED.png" width="300"> 
+<img src= "media/rgb.jpg" width="300"> 
 
 Credit to Lily
 
@@ -92,9 +93,9 @@ For this assignment you will be needing 6 LED's, resistors, wires, a metro, and 
 
 ### Pictures
 
-<img src="media/FancyLED.png" width="300px" />
+<img src="media/FancyLED.PNG" width="300px" />
 
-Credit to lucas 
+Credit to Lucas 
 
 ### Lessons
 Like the past 3 assignments, this one was also difficult because it intorduced me to new sequences for LED's. I had trouble with the fact that now I didn't have to make the LED fade but also switch, alternate, flash ect. 
