@@ -5,7 +5,7 @@
 For this assignment you will be needing a LED light, some wires, a resistor, a bread board, and a metro. The objective of this task is to learn about this new programming language called CircuitPython. There is a new board called Metro that looks like the arduino but is different. What your going to try to do is make and LED fade in and out using the new programming language and board.
 
 ### Pictures
-<img src="media/HelloCircuitPython.PNG" width="300px" />
+<img src="media/HelloCircuitPython.png" width="300px" />
 
 [Credit goes to this adafruit guide I found](https://learn.adafruit.com/circuitpython-digital-inputs-and-outputs/digital-outputs)
 
@@ -20,7 +20,7 @@ I completed this project by writing code that allowed for the LED to fade most i
 For this assignment you won't be needing a bread board but will be needing a servo, some wires, and a metro. The objective of this task is to learn how to move a servo 180 degrees clockwise and counter clockwise by the touch of two wires each one controlling a different direction. Complete this by using a Metro Board and Mu as the programming language.
 
 ### Pictures
-<img src="media/CircuitPythonServo.PNG" width="300px" />
+<img src="media/CircuitPythonServo.png" width="300px" />
 
 [Picture credits go to Abdellatif](https://github.com/ayahya70/CircuitPython)
 
