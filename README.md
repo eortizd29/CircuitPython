@@ -93,7 +93,7 @@ For this assignment you will be needing 6 LED's, resistors, wires, a metro, and 
 
 ### Pictures
 
-<img src="media/FancyLED.PNG" width="300px" />
+<img src="media/FancyLED.png" width="300px" />
 
 Credit to Lucas 
 
