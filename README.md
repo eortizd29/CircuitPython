@@ -80,7 +80,8 @@ For this assignment you will be needing a 2 RGB Led's, some wires, some resistor
 ### Pictures
 <img src= "media/rgb.jpg" width="300"> 
 
-Credit to Lily
+[Credit to Lily](https://github.com/tweissm35/CircuitPython/blob/master/media/rgb.jpg)
+
 
 ### Lessons
 Like the Ultrasonic Sensor, this assignment was more difficult than the rest bringing up new challenges in my code. Like the Sensor, I was going to have to display different colors bringing back up the issue of assigning variables but this time it was different due to the fact I was working with more colors. WHat really got the best of me was the end of the code which was the rainbow section that took me a while to understand.
@@ -95,7 +96,7 @@ For this assignment you will be needing 6 LED's, resistors, wires, a metro, and 
 
 <img src="media/FancyLED.png" width="300px" />
 
-Credit to Lucas 
+[Credit to Lucas](https://github.com/lmiller87/CircuitPython/blob/master/media/FancyLED.png) 
 
 ### Lessons
 Like the past 3 assignments, this one was also difficult because it intorduced me to new sequences for LED's. I had trouble with the fact that now I didn't have to make the LED fade but also switch, alternate, flash ect. 
