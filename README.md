@@ -37,6 +37,7 @@ For this assignment you will be needing an LCD screen, a button, and some wires 
 ### Pictures
 <img src="media/lcdcount.jpg" width="300px" />
 
+[Picture credit goes to Lily](https://github.com/tweissm35/CircuitPython/blob/master/media/lcdcount.jpg)
 ### Lessons
 No very important new code was added to this learning experience. This assignment helped me better understand For and While loops and their eifficiency and simplicity it also gave me more experience with if statements and how to use them with physical actions such as touching a button. 
 
